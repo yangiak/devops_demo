@@ -26,3 +26,6 @@ chef-devops-demo.pem
 
 .DS_Store
 .chef/
+
+nodes/*
+clients/*
